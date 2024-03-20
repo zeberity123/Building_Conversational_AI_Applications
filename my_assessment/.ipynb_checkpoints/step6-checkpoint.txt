@@ -1,0 +1,4 @@
+['What Amea stands for. ', results {
+  score: 0.2871919870376587
+}
+, ' WHAT DOES EMIA ˈstænd FOR? ']
